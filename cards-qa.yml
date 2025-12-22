@@ -1,0 +1,10 @@
+build:
+  version: 2.0.0
+cards:
+  message: Welcome to the Cards Microservice! on qa environment
+  contactInfo:
+    name: Shankar Patil
+    email: shankarpp041@gmail.com
+  phone:
+    - +91-9876543210
+    - +91-9123456780

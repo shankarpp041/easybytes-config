@@ -1,0 +1,11 @@
+cards:
+  message: Welcome to the Cards Microservice!
+  contactInfo:
+    name: Shankar Patil
+    email: shankarpp041@gmail.com
+  phone:
+    - +91-9876543210
+    - +91-9123456780
+
+build:
+  version: 3.0.0

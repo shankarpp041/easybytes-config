@@ -1,0 +1,11 @@
+build:
+  version: 2.0.0
+
+accounts:
+  message: Welcome to the Accounts Service On QA environment!
+  contactInfo:
+    name: Shankar Patil
+    email: shankarpp041@gmail.com
+  phone:
+    - +91-9876543210
+    - +91-9123456780
