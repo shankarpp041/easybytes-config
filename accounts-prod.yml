@@ -5,7 +5,7 @@ accounts:
   message: Welcome to the Accounts Service on Production!
   contactInfo:
     name: Shankar Patil Leader
-    email: "4e7efec5b8a93b6d6ab5c8031a71745a321e709fe3eaa484ab57265c13291d42aae72e9bcbc897b8884384ab7b102855"
+    email: "{cipher}4e7efec5b8a93b6d6ab5c8031a71745a321e709fe3eaa484ab57265c13291d42aae72e9bcbc897b8884384ab7b102855"
   phone:
     - +91-9876543210
     - +91-9123456780
