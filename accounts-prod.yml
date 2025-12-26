@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: Welcome to the Easybytes Accounts Microservice on Production!
+  message: Welcome to the Easybytes Accounts Microservice on Prod!
   contactInfo:
     name: Shankar Patil Leader
     email: "{cipher}4e7efec5b8a93b6d6ab5c8031a71745a321e709fe3eaa484ab57265c13291d42aae72e9bcbc897b8884384ab7b102855"
