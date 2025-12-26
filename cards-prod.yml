@@ -1,7 +1,7 @@
 build:
   version: 1.0.0
 cards:
-  message: Welcome to the Cards Microservice! on production environment
+  message: Welcome to the Cards Microservice! on prod environment
   contactInfo:
     name: Shankar Patil
     email: shankarpp041@gmail.com
