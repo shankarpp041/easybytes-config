@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 accounts:
-  message: Welcome to the Accounts MicroService!
+  message: Welcome to the Account
   contactInfo:
     name: Shankar Patil
     email: shankarpp041@gmail.com
