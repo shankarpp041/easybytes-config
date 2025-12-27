@@ -1,7 +1,7 @@
 build:
   version: 1.0.0
 loans:
-  message: Welcome to the Loans Microservice! on prod environment
+  message: Welcome to the Loans Microservice! on prod working
   contactInfo:
     name: Shankar Patil
     email: shankarpp041@gmail.com
